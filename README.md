@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Om Wallalwar</h1>
-<h3 align="center">I’m a curious problem solver passionate about system programming, data engineering, and backend logic.</h3>
+<h3 align="left">I’m a curious problem solver passionate about system programming, data engineering, and backend logic.</h3>
 
 ---
 ---
@@ -18,7 +18,7 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,go,py,postgres,mysql,sqlite,bash,git,github,docker,vscode,flask" />
 </p>
 
