@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Om Wallalwar</h1>
+<h1 align="left">Hello 👋, I'm Om Wallalwar</h1>
 <h3 align="center">I’m a curious problem solver passionate about system programming, data engineering, and backend logic.</h3>
 
 ---
