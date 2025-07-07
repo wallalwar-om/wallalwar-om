@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Om Wallalwar</h1>
+<h3 align="center">Passionate Programmer | C • C++ • Golang • PostgreSQL | Python Enthusiast</h3>
 
-<!--
-**wallalwar-om/wallalwar-om** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 **About Me**
+- 🎓 B.Tech Computer Science student | GATE 2025 Aspirant  
+- 🧠 Currently exploring **Data Engineering**, **ETL pipelines**, and **systems programming**  
+- 🔧 Skilled in low-level languages and database-backed backend tools  
+- 🗂️ Building **Tritik** – a simple personal knowledge management system using Flask + PostgreSQL  
+- 💬 Ask me about: `C`, `C++`, `Go`, `PostgreSQL`, `Python`, and scripting tools  
+- 📫 Reach me at: `your-email@example.com`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧰 **Languages & Tools**
