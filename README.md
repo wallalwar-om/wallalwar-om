@@ -43,6 +43,14 @@
 
 ---
 
+### 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omwallalwar&layout=compact&theme=blue-white" alt="Top languages" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
