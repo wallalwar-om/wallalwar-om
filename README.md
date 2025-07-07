@@ -24,15 +24,14 @@
 - 🔭 Currently building: `Tritik` – a personal knowledge system  
 - ⚙️ Interested in system-level programming and backend tooling  
 - 🧠 Learning: Data Engineering, Go, SQL optimization  
-- 📝 Writing clean code in C, C++, Python, and Go  
-- 📫 Reach me: `your.email@example.com`
+- 📝 Writing clean code in C++, Python, and Go  
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,postgres,mysql,sqlite,git,github,linux,bash,vscode,docker,flask" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,postgres,mysql,sqlite,git,github,vscode,docker,flask,jupyter Notebook" />
 </p>
 
 ---
@@ -58,9 +57,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Tritik](https://github.com/omwallalwar/tritik) | Knowledge manager with syntax highlighting, category nav, and local/public modes | Flask, PostgreSQL, SQLite, HTML/CSS |
 | [ETL Pipeline](https://github.com/omwallalwar/ETL-CSV-to-PostgreSQL) | CSV to PostgreSQL pipeline using Python and pandas | Python, pandas, SQLAlchemy, PostgreSQL |
-| [Voice Complaint System](https://github.com/omwallalwar/voice-complaint-system) | Converts voice to text for complaint processing | Flask, SpeechRecognition |
 
 ---
 
@@ -75,7 +72,5 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- Add more social links if needed -->
+  <a href="https://www.linkedin.com/in/om-wallalwar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
