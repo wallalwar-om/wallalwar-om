@@ -2,18 +2,13 @@
 <h3 align="center">I’m a curious problem solver passionate about system programming, data engineering, and backend logic.</h3>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Passionate+about+Go,+C%2FC%2B%2B,+PostgreSQL,+and+Python.;Building+efficient+projects+that+solve+real+problems." alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧠 About Me
 
 - 🛠️ I’m currently building `Tritik` — a personal knowledge manager  
-- 🐍 Exploring data engineering with **Python**, **Golang**, **SQL**, and **Flask**
-- 🧩 Comfortable with **C**, **C++**, and system-level logic
+- 🐍 Exploring data engineering with **Python**, **Golang**, **PostgreSQL** and other tech tools
+- 🧩 Comfortable with **C++**, **Java**, **Python**, **PostgreSQL** 
 - 🗃️ Interested in backend architecture, query optimization, and file storage logic
 - 🌱 Currently learning **PostgreSQL** internals and Go concurrency
 - 💡 Open to collaborate on backend or automation-focused projects
@@ -24,18 +19,14 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,postgres,mysql,sqlite,linux,bash,git,github,docker,vscode,flask" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,postgres,mysql,sqlite,bash,git,github,docker,vscode,flask" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://twitter.com/your_twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/your_linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/om-wallalwar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -76,8 +67,3 @@
 </p>
 
 ---
-
-### 💌 Want to Chat?
-
-```plaintext
-📫 Reach me via: your.email@example.com
