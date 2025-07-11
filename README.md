@@ -6,13 +6,11 @@
 
 ### 🧠 About Me
 
-- 🛠️ I’m currently building `Tritik` — a personal knowledge manager  
 - 🐍 Exploring data engineering with **Python**, **Golang**, **PostgreSQL** and other tech tools
 - 🧩 Comfortable with **C++**, **Java**, **Python**, **PostgreSQL** 
 - 🗃️ Interested in backend architecture, query optimization, and file storage logic
 - 🌱 Currently learning **PostgreSQL** internals and Go concurrency
 - 💡 Open to collaborate on backend or automation-focused projects
-- ⚡ Fun fact: I love simplifying things and explaining them with analogies
 
 ---
 
