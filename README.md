@@ -41,28 +41,6 @@
 
 ---
 
-### 📚 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omwallalwar&layout=compact&theme=blue-white" alt="Top languages" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omwallalwar&show_icons=true&theme=midnight-purple" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omwallalwar&layout=compact&theme=midnight-purple" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omwallalwar&theme=tokyonight" />
-</p>
 
 ---
 
