@@ -2,8 +2,6 @@
 <h3 align="left">I’m a curious problem solver passionate about system programming, data engineering, and backend logic.</h3>
 
 ---
----
-
 ### 🧠 About Me
 
 - 🐍 Exploring data engineering with **Python**, **Golang**, **PostgreSQL** and other tech tools
@@ -39,15 +37,3 @@
 | [ETL Pipeline](https://github.com/omwallalwar/ETL-CSV-to-PostgreSQL) | Automated CSV ingestion into PostgreSQL | Python, pandas, SQLAlchemy |
 | [Voice Complaint System](https://github.com/omwallalwar/voice-complaint-system) | Converts voice complaints into structured text for municipal review | Python, Flask, SpeechRecognition |
 
----
-
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=omwallalwar&theme=rogue" />
-</p>
-
----
