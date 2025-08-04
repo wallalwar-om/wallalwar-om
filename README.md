@@ -33,7 +33,6 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Tritik](https://github.com/omwallalwar/tritik) | Knowledge manager with category nav, syntax highlight, public/local modes | Flask, PostgreSQL, HTML/CSS |
 | [ETL Pipeline](https://github.com/omwallalwar/ETL-CSV-to-PostgreSQL) | Automated CSV ingestion into PostgreSQL | Python, pandas, SQLAlchemy |
 | [Voice Complaint System](https://github.com/omwallalwar/voice-complaint-system) | Converts voice complaints into structured text for municipal review | Python, Flask, SpeechRecognition |
 
