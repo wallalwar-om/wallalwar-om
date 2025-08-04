@@ -33,6 +33,6 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [ETL Pipeline](https://github.com/omwallalwar/ETL-CSV-to-PostgreSQL) | Automated CSV ingestion into PostgreSQL | Python, pandas, SQLAlchemy |
-| [Voice Complaint System](https://github.com/omwallalwar/voice-complaint-system) | Converts voice complaints into structured text for municipal review | Python, Flask, SpeechRecognition |
+| [ETL Pipeline](https://github.com/wallalwar-om/ETL-CSV-to-PostgreSQL) | Automated CSV ingestion into PostgreSQL | Python, pandas, SQLAlchemy |
+| [Voice Complaint System](https://github.com/wallalwar-om/Voice-to-Text-Complaint-System) | Converts voice complaints into structured text for municipal review | Python, Flask, SpeechRecognition |
 
