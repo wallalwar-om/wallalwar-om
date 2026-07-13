@@ -1,38 +1,52 @@
-<h1 align="left">Hello 👋, I'm Om Wallalwar</h1>
-<h3 align="left">I’m a curious problem solver passionate about system programming, data engineering, and backend logic.</h3>
+# Hi there, I'm Om Wallalwar 👋
+
+I'm a curious problem solver passionate about **system programming**, **data engineering**, and **backend logic**. I love digging into database internals, optimizing queries, and building scalable data pipelines.
 
 ---
+
 ### 🧠 About Me
 
-- 🐍 Exploring data engineering with **Python**, **Golang**, **PostgreSQL** and other tech tools
-- 🧩 Comfortable with **C++**, **Java**, **Python**, **PostgreSQL** 
-- 🗃️ Interested in backend architecture, query optimization, and file storage logic
-- 🌱 Currently learning **PostgreSQL** internals and Go concurrency
-- 💡 Open to collaborate on backend or automation-focused projects
+*   🚀 **Exploring:** Data engineering with Python, Golang, PostgreSQL, and other modern tech tools.
+*   🛠️ **Comfortable with:** C++, Java, Python, and PostgreSQL.
+*   📐 **Architecture:** Interested in backend architecture, query optimization, and file storage logic.
+*   📖 **Current Focus:** Deep-diving into PostgreSQL internals and Go concurrency.
+*   🤝 **Collaboration:** Open to collaborating on open-source backend or automation-focused projects.
 
 ---
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,postgres,mysql,sqlite,bash,git,github,docker,vscode,flask" />
-</p>
+#### 💻 Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
-
-### 🔗 Connect With Me
-
-  <a href="https://www.linkedin.com/in/om-wallalwar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+#### 🗄️ Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [ETL Pipeline](https://github.com/wallalwar-om/ETL-CSV-to-PostgreSQL) | Automated CSV ingestion into PostgreSQL | Python, pandas, SQLAlchemy |
-| [Voice Complaint System](https://github.com/wallalwar-om/Voice-to-Text-Complaint-System) | Converts voice complaints into structured text for municipal review | Python, Flask, SpeechRecognition |
+| :--- | :--- | :--- |
+| **[ETL Pipeline](YOUR_LINK_HERE)** | Automated CSV ingestion into PostgreSQL. | `Python` `pandas` `SQLAlchemy` |
+| **[Voice Complaint System](YOUR_LINK_HERE)** | Converts voice complaints into structured text for municipal review. | `Python` `Flask` `SpeechRecognition` |
 
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-wallalwar)
+
+---
+
+### 📊 GitHub Stats
+
+![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallalwar-om&show_icons=true&theme=dark&hide_border=true)
