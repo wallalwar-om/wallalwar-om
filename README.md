@@ -50,7 +50,3 @@ I'm a Computer Science graduate passionate about **Data Engineering**, **Data An
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omwallalwar@gmail.com)
 
 ---
-
-### 📊 GitHub Stats
-
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallalwar-om&show_icons=true&theme=dark&hide_border=true&count_private=true)
