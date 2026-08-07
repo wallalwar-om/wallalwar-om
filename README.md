@@ -39,7 +39,7 @@ I'm a Computer Science graduate passionate about **Data Engineering**, **Data An
 | Project / Experience | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Java Backend Intern** <br>@ Infosys Springboard | Developed the **AgroConnect** platform. Built 20+ REST endpoints, integrated role-based security (Spring Security), and implemented automated background scheduler tasks. | `Spring Boot` `MySQL` `Spring Security` `Razorpay API` |
-| **[PostgreSQL Data Warehouse](YOUR_LINK_HERE)** | Designed a 3-layer staging warehouse (500k+ data points) using **Medallion Architecture**. Authored procedural storage units and analytical window functions/CTEs. | `PostgreSQL` `ETL` `Data Modeling` |
+| **[DataForge: Dual-Architecture Medallion Data Warehouse](https://github.com/wallalwar-om/sql-python-etl-pipeline)** | Designed a 3-layer staging warehouse (500k+ data points) using **Medallion Architecture**. Authored procedural storage units and analytical window functions/CTEs, pandas. | `PostgreSQL` `ETL` `Data Modeling` `python` `SQLAlchemy`|
 | **[CI/CD Cloud Deployment](YOUR_LINK_HERE)** | Architected an automated Jenkins deployment pipeline on AWS EC2. Provisioned explicit custom VPC layouts, private subnets, and NAT gateways. | `Jenkins` `Docker` `AWS (EC2/VPC)` `Linux` |
 
 ---
