@@ -19,34 +19,64 @@ I enjoy building REST APIs, working with databases, developing ETL pipelines, an
 - 🌱 Currently looking for opportunities in Data Engineering, Data Analytics, and Backend Development.
 
 ---
-
 ## 🛠️ Technical Skills
 
-## 💻 Languages
+<table>
+<tr>
+<td align="center" width="25%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,mysql" />
-</p>
+### 💻 Languages
 
-## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=java,python" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,mongodb" />
-</p>
+<br>
 
-## 📊 Data Engineering
+SQL • Python • Java
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/ETL-Pipeline-blue" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
-</p>
+</td>
 
-## ☁️ Cloud & DevOps
+<td align="center" width="25%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git" />
-</p>
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring" />
+
+<br>
+
+Spring Boot • Spring Security • REST APIs • JPA/Hibernate
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🗄️ Data Engineering
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br>
+
+ETL • Window Functions • CTEs • Pandas • Power BI
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+
+<br>
+
+Git • GitHub • Docker • AWS • Postman
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🚀 Projects & Experience
