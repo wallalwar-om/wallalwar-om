@@ -22,38 +22,31 @@ I enjoy building REST APIs, working with databases, developing ETL pipelines, an
 
 ## 🛠️ Technical Skills
 
-### Languages
+## 💻 Languages
 
-- Java
-- Python
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,mysql" />
+</p>
 
-### Backend
+## ⚙️ Backend
 
-- Spring Boot
-- Spring Security
-- REST APIs
-- JPA/Hibernate
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mongodb" />
+</p>
 
-### Databases & Data Engineering
+## 📊 Data Engineering
 
-- MySQL
-- MongoDB
-- ETL Pipelines
-- Window Functions
-- CTEs
-- Pandas
-- Power BI
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/ETL-Pipeline-blue" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
+</p>
 
-### Tools & Cloud
+## ☁️ Cloud & DevOps
 
-- Git
-- GitHub
-- Docker
-- AWS
-- Postman
-- MS Excel
-
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git" />
+</p>
 ---
 
 ## 🚀 Projects & Experience
