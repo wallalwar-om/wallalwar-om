@@ -1,52 +1,103 @@
 # Hi there, I'm Om Wallalwar 👋
 
-I'm a Computer Science graduate passionate about **Data Engineering**, **Data Analytics**, and **Backend Systems**. I love understanding how complex systems work, designing optimized database schemas, and building automated CI/CD and data pipelines.
+I'm a Computer Science graduate with an interest in Data Engineering, Data Analytics, and Backend Development.
+
+I enjoy building REST APIs, working with databases, developing ETL pipelines, and understanding how data moves through different systems.
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-*   🚀 **Eager to Start:** Beginning my career journey in **Data Engineering** or **Data Analytics**.
-*   🛠️ **Backend Experience:** Developed robust RESTful APIs with **Spring Boot** and managed automated tasks using background schedulers.
-*   📐 **Data Architect:** Designed and implemented multi-layer data warehouses using the **Medallion Architecture (Bronze → Silver → Gold)**.
-*   ☁️ **Cloud & DevOps:** Comfortable architecting secure infrastructure on **AWS** and automating deployments with **Jenkins** and **Docker**.
+- 🎓 Computer Science graduate from Sandip University.
 
----
+- 💻 Built backend applications using Java, Spring Boot, and SQL.
 
-### 🛠️ Technical Skills
+- 🗄️ Developed ETL pipelines and implemented Medallion Architecture (Bronze → Silver → Gold) for data transformation and validation.
 
-#### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- 🔄 Interested in database design, data processing, and building scalable applications.
 
-#### 🗄️ Databases & Data Engineering
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ab149.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
-#### ☁️ DevOps & Cloud Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- 🌱 Currently looking for opportunities in Data Engineering, Data Analytics, and Backend Development.
 
 ---
 
-### 🚀 Highlighted Projects & Experience
+## 🛠️ Technical Skills
 
-| Project / Experience | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Java Backend Intern** <br>@ Infosys Springboard | Developed the **AgroConnect** platform. Built 20+ REST endpoints, integrated role-based security (Spring Security), and implemented automated background scheduler tasks. | `Spring Boot` `MySQL` `Spring Security` `Razorpay API` |
-| **[DataForge: Dual-Architecture Medallion Data Warehouse](https://github.com/wallalwar-om/sql-python-etl-pipeline)** | Designed a 3-layer staging warehouse (500k+ data points) using **Medallion Architecture**. Authored procedural storage units and analytical window functions/CTEs, pandas. | `PostgreSQL` `ETL` `Data Modeling` `python` `SQLAlchemy`|
-| **[CI/CD Cloud Deployment](YOUR_LINK_HERE)** | Architected an automated Jenkins deployment pipeline on AWS EC2. Provisioned explicit custom VPC layouts, private subnets, and NAT gateways. | `Jenkins` `Docker` `AWS (EC2/VPC)` `Linux` |
+### Languages
+
+- Java
+- Python
+- SQL
+
+### Backend
+
+- Spring Boot
+- Spring Security
+- REST APIs
+- JPA/Hibernate
+
+### Databases & Data Engineering
+
+- MySQL
+- MongoDB
+- ETL Pipelines
+- Window Functions
+- CTEs
+- Pandas
+- Power BI
+
+### Tools & Cloud
+
+- Git
+- GitHub
+- Docker
+- AWS
+- Postman
+- MS Excel
 
 ---
 
-### 🌐 Connect With Me
+## 🚀 Projects & Experience
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-wallalwar)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omwallalwar@gmail.com)
+### AgroConnect | Java Backend Internship
+
+- Built and tested 20+ REST API endpoints.
+
+- Implemented role-based authentication and authorization using Spring Security.
+
+- Developed background scheduler tasks for automated auction and delivery updates.
+
+**Tech Stack:** Java, Spring Boot, MySQL, Spring Security, Razorpay API
 
 ---
+
+### DataForge: Medallion Data Warehouse
+
+- Processed and validated 500,000+ ERP and CRM records.
+
+- Built a Bronze → Silver → Gold ETL pipeline.
+
+- Implemented data transformations using SQL and Python (Pandas).
+
+- Used window functions and CTEs to validate business rules.
+
+**Tech Stack:** SQL, Python, ETL, Data Modeling, Pandas
+
+---
+
+### CI/CD Cloud Deployment Pipeline
+
+- Built an automated deployment pipeline on AWS EC2.
+
+- Containerized applications with Docker.
+
+- Configured AWS networking components, including VPCs, subnets, routing, and NAT infrastructure.
+
+**Tech Stack:** Docker, Jenkins, AWS EC2, VPC
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/om-wallalwar
+
+- Email: omwallalwar@gmail.com
