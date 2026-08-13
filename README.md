@@ -77,7 +77,6 @@ Git • GitHub • Docker • AWS • Postman
 
 </tr>
 </table>
----
 
 ## 🚀 Projects & Experience
 
